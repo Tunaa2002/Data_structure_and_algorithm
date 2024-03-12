@@ -1,0 +1,1 @@
+{"name":"Local: tim_kiem_nhi_phan","url":"d:\\Data_structure&algorithm\\Review\\tim_kiem_nhi_phan.cpp","tests":[{"id":1710233750847,"input":"2 \n5 16\n2 4 7 9 16\n7 98\n1 22 37 47 54 88 96","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Data_structure&algorithm\\Review\\tim_kiem_nhi_phan.cpp","group":"local","local":true}

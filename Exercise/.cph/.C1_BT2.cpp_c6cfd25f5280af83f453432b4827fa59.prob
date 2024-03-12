@@ -1,0 +1,1 @@
+{"name":"Local: C1_BT2","url":"d:\\Data_structure&algorithm\\Exercise\\C1_BT2.cpp","tests":[{"id":1705996374628,"input":"2\n12451\n1000012","output":""},{"id":1705996414315,"input":"2\n12342\n2542","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Data_structure&algorithm\\Exercise\\C1_BT2.cpp","group":"local","local":true}
