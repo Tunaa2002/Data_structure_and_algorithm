@@ -1,1 +1,0 @@
-{"name":"Local: dem_so_0","url":"d:\\Data_structure&algorithm\\code.ptit\\dem_so_0.cpp","tests":[{"id":1716386426530,"input":"3\n12\n0 0 0 0 0 0 0 0 0 1 1 1 \n5\n0 0 0 0 0\n6\n1 1 1 1 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Data_structure&algorithm\\code.ptit\\dem_so_0.cpp","group":"local","local":true}

@@ -1,1 +1,0 @@
-{"name":"Local: xoa_du_lieu_trong_dslk_don","url":"d:\\Data_structure&algorithm\\code.ptit\\xoa_du_lieu_trong_dslk_don.cpp","tests":[{"id":1709018527190,"input":"14\n1 1 1 4 5 1 1 1 1 7 1 8 1 9\n1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Data_structure&algorithm\\code.ptit\\xoa_du_lieu_trong_dslk_don.cpp","group":"local","local":true}

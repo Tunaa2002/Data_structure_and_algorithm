@@ -1,1 +1,0 @@
-{"name":"Local: kiem_tra_bieu_thuc_so_hoc","url":"d:\\Data_structure&algorithm\\code.ptit\\kiem_tra_bieu_thuc_so_hoc.cpp","tests":[{"id":1716303987924,"input":"3\n((a+b))\n(a + (b)/c)\n(a + b*(c-d))","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Data_structure&algorithm\\code.ptit\\kiem_tra_bieu_thuc_so_hoc.cpp","group":"local","local":true}

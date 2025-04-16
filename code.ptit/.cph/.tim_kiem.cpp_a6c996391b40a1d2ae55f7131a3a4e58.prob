@@ -1,1 +1,0 @@
-{"name":"Local: tim_kiem","url":"d:\\Data_structure&algorithm\\code.ptit\\tim_kiem.cpp","tests":[{"id":1709019453355,"input":"2 \n5 16\n2 4 7 9 16\n7 98\n1 22 37 47 54 88 96","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Data_structure&algorithm\\code.ptit\\tim_kiem.cpp","group":"local","local":true}
