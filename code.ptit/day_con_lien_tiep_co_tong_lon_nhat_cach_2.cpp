@@ -1,29 +1,25 @@
-#include <iostream>
+#include <bits/stdc++.h>
+#define endl "\n"
 using namespace std;
-int n;
-int a[n];
-
-int maxCorssingSum(int l, int m, int r){
-    int sum=0, left_sum= INT_MIN , right_sum= INT_MIN;
-    for(int i=m;i>=l;i--){
-        sum+=a[i];
-        if(sum>left_sum) left_sum = sum;
+int main()
+{
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        int n;
+        cin >> n;
+        int x, ans = 0, s = 0;
+        for (int i = 0; i < n; i++)
+        {
+            cin >> x;
+            s += x;
+            ans = max(ans, s);
+            if (s < 0)
+                s = 0;
+        }
+        cout << ans << endl;
     }
-    sum=0;
-    for(int i=m+1;i<=r;i++){
-        sum+=a[i];
-        if(sum>right_sum) right_sum = sum;
-    }
-}
-
-int maxSubArraySum(int l, int m, int r){
-
-}
-
-
-
-main(){
-    cin>>n;
-    for(int i=0;i<n;i++)
-        cin>>a[i];
 }
