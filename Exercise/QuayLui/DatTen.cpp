@@ -1,9 +1,8 @@
 #include<bits/stdc++.h>
-
 using namespace std;
 
 int n, k;
-vector<string> vs, ans;
+vector<string> vs;
 int B[35];
 
 void in()
