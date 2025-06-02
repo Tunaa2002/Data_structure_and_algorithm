@@ -27,7 +27,6 @@ int main() {
     cin >> t;
     while (t--) {
         cin >> s;
-        int n = s.size();
         quaylui(0);
         cout << endl;
     }
